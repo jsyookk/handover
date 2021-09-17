@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/sayongja/Dev/flutter_exam/handover/build/kakao_flutter_sdk/intermediates/res/merged/release/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/sayongja/.gradle/caches/transforms-2/files-2.1/54a6168d31356fc75da9eca979487d70/appcompat-1.0.2/res/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/sayongja/Dev/flutter_exam/handover/build/kakao_flutter_sdk/intermediates/res/merged/release/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/sayongja/.gradle/caches/transforms-2/files-2.1/54a6168d31356fc75da9eca979487d70/appcompat-1.0.2/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/sayongja/Dev/flutter_exam/handover/build/kakao_flutter_sdk/intermediates/res/merged/release/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/sayongja/.gradle/caches/transforms-2/files-2.1/54a6168d31356fc75da9eca979487d70/appcompat-1.0.2/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    }
+]

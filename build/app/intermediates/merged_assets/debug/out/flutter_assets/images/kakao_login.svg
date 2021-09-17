@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="132" viewBox="0 0 900 132">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g transform="translate(-90 -1536) translate(90 1536)">
+                <rect width="900" height="132" fill="#FEE500" rx="18"/>
+                <text fill="#000" fill-opacity=".85" font-family="AppleSDGothicNeo-Regular, Apple SD Gothic Neo" font-size="48" letter-spacing="-1.152">
+                    <tspan x="330" y="82">카카오로 시작하기</tspan>
+                </text>
+                <g fill="#000" fill-opacity=".902">
+                    <path d="M30.857.663C13.814.663 0 11.387 0 24.617c0 8.225 5.343 15.48 13.48 19.793l-3.424 12.565c-.303 1.113.962 1.998 1.932 1.353l15.007-9.951c1.265.121 2.552.193 3.862.193 17.042 0 30.857-10.726 30.857-23.953C61.714 11.387 47.9.663 30.857.663" transform="translate(237 37)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

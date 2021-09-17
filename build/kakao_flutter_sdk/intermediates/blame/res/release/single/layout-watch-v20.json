@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sayongja/Dev/flutter_exam/handover/build/kakao_flutter_sdk/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/Users/sayongja/.gradle/caches/transforms-2/files-2.1/54a6168d31356fc75da9eca979487d70/appcompat-1.0.2/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/sayongja/Dev/flutter_exam/handover/build/kakao_flutter_sdk/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/sayongja/.gradle/caches/transforms-2/files-2.1/54a6168d31356fc75da9eca979487d70/appcompat-1.0.2/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    }
+]

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "375881855692",
+    "project_id": "handover-pretotype",
+    "storage_bucket": "handover-pretotype.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375881855692:android:817373700bec5e738f0869",
+        "android_client_info": {
+          "package_name": "com.coglix.handover"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375881855692-pp7d96cb8tdg2v3o7hta7rh0192cpqq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_139uENUJCSMRWi4QA7WAmfp_Qy9XdDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375881855692-pp7d96cb8tdg2v3o7hta7rh0192cpqq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

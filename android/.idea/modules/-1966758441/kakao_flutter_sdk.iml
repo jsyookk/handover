@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":kakao_flutter_sdk" external.linked.project.path="/Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="com.kakao.sdk.flutter" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":kakao_flutter_sdk" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" value="3.5.4" />
+        <option name="LAST_KNOWN_AGP_VERSION" value="3.5.4" />
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/main/res;file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/debug/res;file://$MODULE_DIR$/../../../../build/kakao_flutter_sdk/generated/res/rs/debug;file://$MODULE_DIR$/../../../../build/kakao_flutter_sdk/generated/res/resValues/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/androidTest/res;file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/test/res;file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/androidTestDebug/res;file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/testDebug/res;file://$MODULE_DIR$/../../../../build/kakao_flutter_sdk/generated/res/rs/androidTest/debug;file://$MODULE_DIR$/../../../../build/kakao_flutter_sdk/generated/res/resValues/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+        <option name="PROJECT_TYPE" value="1" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="3" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../../build/kakao_flutter_sdk/tmp/kotlin-classes/debug" />
+          <option name="classpath" value="$MODULE_DIR$/../../../../build/shared_preferences/intermediates/compile_library_classes/debug/classes.jar:/Users/sayongja/Dev/flutter_exam/handover/build/package_info/intermediates/compile_library_classes/debug/classes.jar:/Users/sayongja/.gradle/caches/transforms-2/files-2.1/24a5a7300dc0a884be1fed0ef3a33629/jetified-flutter_embedding_debug-1.0.0-ae90085a8437c0ae94d6b5ad2741739ebc742cb4.jar:/Users/sayongja/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common-java8/2.2.0/cd3478503da69b1a7e0319bd2d1389943db9b364/lifecycle-common-java8-2.2.0.jar:/Users/sayongja/.gradle/caches/transforms-2/files-2.1/2caa7445474f4f0828a20755fa19049f/browser-1.0.0-api.jar:/Users/sayongja/.gradle/caches/transforms-2/files-2.1/36901bfd38911daf9f5bedffdca54ae6/appcompat-1.0.2-api.jar:/Users/sayongja/.gradle/caches/transforms-2/files-2.1/80f365d334dafc673cfb8b820b7c63c2/fragment-1.1.0-api.jar:/Users/sayongja/.gradle/caches/transforms-2/files-2.1/8f39e90a8e8b99cd31b40d6440dc9dc9/vectordrawable-animated-1.0.0-api.jar:/Users/sayongja/.gradle/caches/transforms-2/files-2.1/642c7e0a3b99ca78a68241095cbede41/legacy-support-core-ui-1.0.0-api.jar:/Users/sayongja/.gradle/caches/transforms-2/files-2.1/d54791b044e39aa6f9c41e9df6a5ed58/legacy-support-core-utils-1.0.0-api.jar:/Users/sayongja/.gradle/caches/transforms-2/files-2.1/4c0a9b881086e3d0e56d6d04a9b00e1f/vectordrawable-1.0.1-api.jar:/Users/sayongja/.gradle/caches/transforms-2/files-2.1/976aa93fe7489ee90c67949be145f850/viewpager-1.0.0-api.jar:/Users/sayongja/.gradle/caches/transforms-2/files-2.1/d13ff55e9ad3f37a32c9f7e51a9f3ee8/loader-1.0.0-api.jar:/Users/sayongja/.gradle/caches/transforms-2/files-2.1/4684cfcb955d4a869aad34bab2ed74e0/activity-1.0.0-api.jar:/Users/sayongja/.gradle/caches/transforms-2/files-2.1/b985c2dc802d6b93d11cea94a3dc2a65/coordinatorlayout-1.0.0-api.jar:/Users/sayongja/.gradle/caches/transforms-2/files-2.1/63f0af9637634b1c362fb6a2ec61c511/drawerlayout-1.0.0-api.jar:/Users/sayongja/.gradle/caches/transforms-2/files-2.1/a263c4697e565b9051a59b5fafa4d961/slidingpanelayout-1.0.0-api.jar:/Users/sayongja/.gradle/caches/transforms-2/files-2.1/e495ffdbafe5772b61cbf5db679ebb3f/customview-1.0.0-api.jar:/Users/sayongja/.gradle/caches/transforms-2/files-2.1/a308a100c0f799aa76db65ef6afed41c/swiperefreshlayout-1.0.0-api.jar:/Users/sayongja/.gradle/caches/transforms-2/files-2.1/dfbc03ca4cee335ea8606c4dc3930764/asynclayoutinflater-1.0.0-api.jar:/Users/sayongja/.gradle/caches/transforms-2/files-2.1/37e0b430efce6ef0d500012caaf9261a/core-1.1.0-api.jar:/Users/sayongja/.gradle/caches/transforms-2/files-2.1/cfff08a3f4cc4591701c25cd2cdd1112/lifecycle-runtime-2.2.0-api.jar:/Users/sayongja/.gradle/caches/transforms-2/files-2.1/326c07715383e7bd22fd2ff04a994cc3/savedstate-1.0.0-api.jar:/Users/sayongja/.gradle/caches/transforms-2/files-2.1/c1e207038ebdc0156c587f6147b23e00/lifecycle-livedata-2.0.0-api.jar:/Users/sayongja/.gradle/caches/transforms-2/files-2.1/0268e821e57b895bcfe6596cd87f4efc/lifecycle-livedata-core-2.0.0-api.jar:/Users/sayongja/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.2.0/4ef09a745007778eef83b92f8f23987a8ea59496/lifecycle-common-2.2.0.jar:/Users/sayongja/.gradle/caches/transforms-2/files-2.1/f8a083d9a0dd4c84524abbfc0f08b136/interpolator-1.0.0-api.jar:/Users/sayongja/.gradle/caches/transforms-2/files-2.1/8c01fd3fa634e8b60d47902f455cd627/versionedparcelable-1.1.0-api.jar:/Users/sayongja/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar:/Users/sayongja/.gradle/caches/transforms-2/files-2.1/e26795fb381c62ad6fe4f23f773645a0/cursoradapter-1.0.0-api.jar:/Users/sayongja/.gradle/caches/transforms-2/files-2.1/60dc48e9a7eeaaf6b7b535eb8c5cb71a/core-runtime-2.0.0-api.jar:/Users/sayongja/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar:/Users/sayongja/.gradle/caches/transforms-2/files-2.1/6ebf4e2c5dd61edc0261ddc6e194ba52/lifecycle-viewmodel-2.1.0-api.jar:/Users/sayongja/.gradle/caches/transforms-2/files-2.1/ec0237b41b35ceeba856d9af06cd18a2/documentfile-1.0.0-api.jar:/Users/sayongja/.gradle/caches/transforms-2/files-2.1/6f912f9d9d535c9b0e2274337a48b63a/localbroadcastmanager-1.0.0-api.jar:/Users/sayongja/.gradle/caches/transforms-2/files-2.1/f82b2feaed92a6d271d251047ccb02b6/print-1.0.0-api.jar:/Users/sayongja/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.1.0/e3a6fb2f40e3a3842e6b7472628ba4ce416ea4c8/annotation-1.1.0.jar:/Users/sayongja/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-android-extensions-runtime/1.3.50/bec16087637a7cafe54894e73d38037977cb30d2/kotlin-android-extensions-runtime-1.3.50.jar:/Users/sayongja/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.3.31/e652770b6416c6d85934086899ffed3eccd35813/kotlin-stdlib-jdk7-1.3.31.jar:/Users/sayongja/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.50/b529d1738c7e98bbfa36a4134039528f2ce78ebf/kotlin-stdlib-1.3.50.jar:/Users/sayongja/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.50/3d9cd3e1bc7b92e95f43d45be3bfbcf38e36ab87/kotlin-stdlib-common-1.3.50.jar:/Users/sayongja/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar:/Users/sayongja/.gradle/caches/transforms-2/files-2.1/0592e912049b8b02d0f1ed3d84fa4ea4/constraintlayout-1.1.3-api.jar:/Users/sayongja/.gradle/caches/modules-2/files-2.1/androidx.constraintlayout/constraintlayout-solver/1.1.3/54abe9ffb22cc9019b0b6fcc10f185cc4e67b34e/constraintlayout-solver-1.1.3.jar:/Users/sayongja/Dev/flutter_exam/handover/build/kakao_flutter_sdk/intermediates/compile_only_not_namespaced_r_class_jar/debug/R.jar:/Users/sayongja/Library/Android/sdk/platforms/android-28/android.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="kakao_flutter_sdk_debug" />
+          <option name="languageVersion" value="1.3" />
+          <option name="apiVersion" value="1.3" />
+          <option name="pluginOptions">
+            <array>
+              <option value="plugin:org.jetbrains.kotlin.android:experimental=false" />
+              <option value="plugin:org.jetbrains.kotlin.android:enabled=true" />
+              <option value="plugin:org.jetbrains.kotlin.android:defaultCacheImplementation=hashMap" />
+            </array>
+          </option>
+          <option name="pluginClasspaths">
+            <array>
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.intellij.deps/trove4j/1.0.20181211/216c2e14b070f334479d800987affe4054cd563f/trove4j-1.0.20181211.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-android-extensions/1.3.50/f16428b9ce307d0f5842bd8ed9af1e43a141edd3/kotlin-android-extensions-1.3.50.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-embeddable/1.3.50/1251c1768e5769b06c2487d6f6cf8acf6efb8960/kotlin-compiler-embeddable-1.3.50.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-daemon-embeddable/1.3.50/5cb93bb33f4c6f833ead0beca4c831668e00cf52/kotlin-daemon-embeddable-1.3.50.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.3.50/b499f22fd7c3e9c2e5b6c4005221fa47fc7f9a7a/kotlin-reflect-1.3.50.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.3.50/59492b8dfb92522ba0ddb5dd1c4d0ef0a4fca1af/kotlin-script-runtime-1.3.50.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.50/3d9cd3e1bc7b92e95f43d45be3bfbcf38e36ab87/kotlin-stdlib-common-1.3.50.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.50/b529d1738c7e98bbfa36a4134039528f2ce78ebf/kotlin-stdlib-1.3.50.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" />
+            </array>
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
+    <output url="file://$MODULE_DIR$/../../../../build/kakao_flutter_sdk/intermediates/javac/debug/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../../build/kakao_flutter_sdk/intermediates/javac/debugUnitTest/classes" />
+    <exclude-output />
+    <content url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android">
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/debug/res" type="java-resource" />
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/debug/resources" type="java-resource" />
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/debug/assets" type="java-resource" />
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/debug/aidl" isTestSource="false" />
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/debug/java" isTestSource="false" />
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/debug/rs" isTestSource="false" />
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/debug/shaders" isTestSource="false" />
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/androidTestDebug/res" type="java-test-resource" />
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/androidTestDebug/resources" type="java-test-resource" />
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/androidTestDebug/assets" type="java-test-resource" />
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/androidTestDebug/aidl" isTestSource="true" />
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/androidTestDebug/java" isTestSource="true" />
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/androidTestDebug/rs" isTestSource="true" />
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/androidTestDebug/shaders" isTestSource="true" />
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/testDebug/res" type="java-test-resource" />
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/testDebug/resources" type="java-test-resource" />
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/testDebug/assets" type="java-test-resource" />
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/testDebug/aidl" isTestSource="true" />
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/testDebug/java" isTestSource="true" />
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/testDebug/rs" isTestSource="true" />
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/testDebug/shaders" isTestSource="true" />
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/main/res" type="java-resource" />
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/main/resources" type="java-resource" />
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/main/assets" type="java-resource" />
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/main/aidl" isTestSource="false" />
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/main/java" isTestSource="false" />
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/main/kotlin" isTestSource="false" />
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/main/rs" isTestSource="false" />
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/main/shaders" isTestSource="false" />
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/androidTest/res" type="java-test-resource" />
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/androidTest/resources" type="java-test-resource" />
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/androidTest/assets" type="java-test-resource" />
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/androidTest/aidl" isTestSource="true" />
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/androidTest/java" isTestSource="true" />
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/androidTest/rs" isTestSource="true" />
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/androidTest/shaders" isTestSource="true" />
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/test/res" type="java-test-resource" />
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/test/assets" type="java-test-resource" />
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/test/aidl" isTestSource="true" />
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/test/java" isTestSource="true" />
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/test/rs" isTestSource="true" />
+      <sourceFolder url="file:///Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.5.3/android/src/test/shaders" isTestSource="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/kakao_flutter_sdk/generated/aidl_source_output_dir/debug/compileDebugAidl/out">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/kakao_flutter_sdk/generated/aidl_source_output_dir/debug/compileDebugAidl/out" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/kakao_flutter_sdk/generated/aidl_source_output_dir/debugAndroidTest/compileDebugAndroidTestAidl/out">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/kakao_flutter_sdk/generated/aidl_source_output_dir/debugAndroidTest/compileDebugAndroidTestAidl/out" isTestSource="true" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/kakao_flutter_sdk/generated/ap_generated_sources/debug/out">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/kakao_flutter_sdk/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/kakao_flutter_sdk/generated/ap_generated_sources/debugAndroidTest/out">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/kakao_flutter_sdk/generated/ap_generated_sources/debugAndroidTest/out" isTestSource="true" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/kakao_flutter_sdk/generated/ap_generated_sources/debugUnitTest/out">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/kakao_flutter_sdk/generated/ap_generated_sources/debugUnitTest/out" isTestSource="true" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/kakao_flutter_sdk/generated/renderscript_source_output_dir/debug/compileDebugRenderscript/out">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/kakao_flutter_sdk/generated/renderscript_source_output_dir/debug/compileDebugRenderscript/out" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/kakao_flutter_sdk/generated/renderscript_source_output_dir/debugAndroidTest/compileDebugAndroidTestRenderscript/out">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/kakao_flutter_sdk/generated/renderscript_source_output_dir/debugAndroidTest/compileDebugAndroidTestRenderscript/out" isTestSource="true" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/kakao_flutter_sdk/generated/res/resValues/androidTest/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/kakao_flutter_sdk/generated/res/resValues/androidTest/debug" type="java-test-resource" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/kakao_flutter_sdk/generated/res/resValues/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/kakao_flutter_sdk/generated/res/resValues/debug" type="java-resource" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/kakao_flutter_sdk/generated/res/rs/androidTest/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/kakao_flutter_sdk/generated/res/rs/androidTest/debug" type="java-test-resource" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/kakao_flutter_sdk/generated/res/rs/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/kakao_flutter_sdk/generated/res/rs/debug" type="java-resource" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/kakao_flutter_sdk/generated/source/buildConfig/androidTest/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/kakao_flutter_sdk/generated/source/buildConfig/androidTest/debug" isTestSource="true" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/kakao_flutter_sdk/generated/source/buildConfig/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/kakao_flutter_sdk/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 28 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: io.flutter:flutter_embedding_debug:1.0.0-ae90085a8437c0ae94d6b5ad2741739ebc742cb4@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common-java8:2.2.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common:2.2.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.collection:collection:1.1.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-common:2.1.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation:1.1.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-android-extensions-runtime:1.3.50@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.3.31@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.3.50@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.50@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.constraintlayout:constraintlayout-solver:1.1.3@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.browser:browser:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.appcompat:appcompat:1.0.2@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.fragment:fragment:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.vectordrawable:vectordrawable-animated:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.legacy:legacy-support-core-ui:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.legacy:legacy-support-core-utils:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.vectordrawable:vectordrawable:1.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.loader:loader:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.activity:activity:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.drawerlayout:drawerlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.slidingpanelayout:slidingpanelayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.customview:customview:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.swiperefreshlayout:swiperefreshlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.asynclayoutinflater:asynclayoutinflater:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.core:core:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.savedstate:savedstate:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.interpolator:interpolator:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-runtime:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.documentfile:documentfile:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.print:print:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.constraintlayout:constraintlayout:1.1.3@aar" level="project" />
+    <orderEntry type="module" module-name="shared_preferences" />
+    <orderEntry type="module" module-name="package_info" />
+  </component>
+</module>

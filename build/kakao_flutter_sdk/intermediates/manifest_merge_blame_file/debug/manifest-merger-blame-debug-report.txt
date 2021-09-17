@@ -1,0 +1,56 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.kakao.sdk.flutter" >
+4
+5    <uses-sdk android:minSdkVersion="19" />
+5-->/Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.7.1/android/src/main/AndroidManifest.xml
+6
+7    <queries>
+7-->/Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.7.1/android/src/main/AndroidManifest.xml:17:5-25:15
+8        <package android:name="com.kakao.talk" />
+8-->/Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.7.1/android/src/main/AndroidManifest.xml:18:9-50
+8-->/Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.7.1/android/src/main/AndroidManifest.xml:18:18-47
+9        <package android:name="com.kakao.onetalk" />
+9-->/Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.7.1/android/src/main/AndroidManifest.xml:18:9-50
+9-->/Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.7.1/android/src/main/AndroidManifest.xml:18:18-47
+10        <package android:name="com.android.chrome" />
+10-->/Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.7.1/android/src/main/AndroidManifest.xml:18:9-50
+10-->/Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.7.1/android/src/main/AndroidManifest.xml:18:18-47
+11        <package android:name="com.chrome.beta" />
+11-->/Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.7.1/android/src/main/AndroidManifest.xml:18:9-50
+11-->/Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.7.1/android/src/main/AndroidManifest.xml:18:18-47
+12        <package android:name="com.chrome.dev" />
+12-->/Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.7.1/android/src/main/AndroidManifest.xml:18:9-50
+12-->/Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.7.1/android/src/main/AndroidManifest.xml:18:18-47
+13        <package android:name="com.locnall.KimGiSa" />
+13-->/Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.7.1/android/src/main/AndroidManifest.xml:18:9-50
+13-->/Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.7.1/android/src/main/AndroidManifest.xml:18:18-47
+14        <package android:name="com.lguplus.navi" />
+14-->/Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.7.1/android/src/main/AndroidManifest.xml:18:9-50
+14-->/Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.7.1/android/src/main/AndroidManifest.xml:18:18-47
+15    </queries>
+16
+17    <application>
+17-->/Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.7.1/android/src/main/AndroidManifest.xml:5:5-15:19
+18        <activity
+18-->/Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.7.1/android/src/main/AndroidManifest.xml:6:9-9:20
+19            android:name="com.kakao.sdk.flutter.TalkAuthCodeActivity"
+19-->/Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.7.1/android/src/main/AndroidManifest.xml:6:19-55
+20            android:launchMode="singleTask"
+20-->/Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.7.1/android/src/main/AndroidManifest.xml:7:19-50
+21            android:theme="@style/TransparentCompat" >
+21-->/Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.7.1/android/src/main/AndroidManifest.xml:8:19-59
+22        </activity>
+23        <activity
+23-->/Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.7.1/android/src/main/AndroidManifest.xml:10:9-14:59
+24            android:name="com.kakao.sdk.flutter.AuthCodeCustomTabsActivity"
+24-->/Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.7.1/android/src/main/AndroidManifest.xml:11:17-59
+25            android:exported="true"
+25-->/Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.7.1/android/src/main/AndroidManifest.xml:12:17-40
+26            android:launchMode="singleTask"
+26-->/Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.7.1/android/src/main/AndroidManifest.xml:13:17-48
+27            android:theme="@style/TransparentCompat" />
+27-->/Library/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.7.1/android/src/main/AndroidManifest.xml:14:17-57
+28    </application>
+29
+30</manifest>

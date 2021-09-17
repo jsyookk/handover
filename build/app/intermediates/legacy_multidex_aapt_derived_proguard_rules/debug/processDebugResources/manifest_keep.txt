@@ -1,0 +1,4 @@
+# Referenced at /Users/sayongja/Dev/flutter_exam/handover/build/app/intermediates/merged_manifests/debug/arm64-v8a/AndroidManifest.xml:54
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/sayongja/Dev/flutter_exam/handover/build/app/intermediates/merged_manifests/debug/arm64-v8a/AndroidManifest.xml:54
+-keep class androidx.multidex.MultiDexApplication { <init>(); }
